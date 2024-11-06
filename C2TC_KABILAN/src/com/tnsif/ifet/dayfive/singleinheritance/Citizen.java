@@ -1,4 +1,4 @@
-package om.tnsif.ifet.dayfive.singleinheritance;
+package com.tnsif.ifet.dayfive.singleinheritance;
 
 public class Citizen {
 	private String name;

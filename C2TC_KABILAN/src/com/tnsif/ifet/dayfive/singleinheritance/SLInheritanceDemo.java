@@ -1,4 +1,4 @@
-package om.tnsif.ifet.dayfive.singleinheritance;
+package com.tnsif.ifet.dayfive.singleinheritance;
 
 public class SLInheritanceDemo {
 	public static void main(String[] args) {

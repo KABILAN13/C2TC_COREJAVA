@@ -1,1 +1,0 @@
-package om.tnsif.ifet.dayfive.singleinheritance;
