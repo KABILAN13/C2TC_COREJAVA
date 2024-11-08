@@ -31,6 +31,7 @@ public class Driver {
 
 		System.out.println("Odd numbers : " + ArrayOperations.getOddCount(b) + "\tEven numbers : "
 				+ ArrayOperations.getEvenCount(b));
+		//fi
 		System.out.println();
 		System.out.println("---------------------------------------");
 
