@@ -1,0 +1,17 @@
+/* src/index.css */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background:url(image/pexels-rostislav-10458835.jpg) no-repeat;
+  background-size: cover;
+  color: #ffffff; /* Dark Blue Gray Text */
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+

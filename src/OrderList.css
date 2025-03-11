@@ -1,0 +1,42 @@
+/* src/components/OrderList.css */
+.order-list {
+  margin: 20px auto;
+  max-width: 900px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li strong {
+  color: rgb(37, 37, 37); /* Vibrant Blue Text */
+  margin-right: 5px;
+}
+
+button {
+  background-color: #e74c3c; /* Bright Red Button */
+  color: #ffffff; /* White Text */
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #c0392b; /* Darker Red on Hover */
+}
